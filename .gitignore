@@ -1,0 +1,4 @@
+.terraform
+*accessKeys.csv
+*.tfstate
+*.tfstate.backup
